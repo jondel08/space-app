@@ -1,0 +1,72 @@
+[
+	{
+		"id": "1",
+		"titulo": "Gran Nube de Magallanes",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-1.png",
+		"tagId": "2"
+	},
+	{
+		"id": "2",
+		"titulo": "Vía Láctea",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-2.png",
+		"tagId": "2"
+	},
+	{
+		"id": "3",
+		"titulo": "Luna: cuarto menguante",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-1.png",
+		"tagId": "3"
+	},
+	{
+		"id": "4",
+		"titulo": "Nebulosa de Orión",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-1.png",
+		"tagId": "1"
+	},
+	{
+		"id": "5",
+		"titulo": "Anillo de Saturno",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-5.png",
+		"tagId": "4"
+	},
+	{
+		"id": "6",
+		"titulo": "Agujero negro supermasivo",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-6.png",
+		"tagId": "2"
+	},
+	{
+		"id": "7",
+		"titulo": "Colisión galáctica",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-7.png",
+		"tagId": "3"
+	},
+	{
+		"id": "8",
+		"titulo": "Supernova en explosión",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-8.png",
+		"tagId": "1"
+	},
+	{
+		"id": "9",
+		"titulo": "Aurora boreal en Marte",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-1.png",
+		"tagId": "4"
+	},
+	{
+		"id": "10",
+		"titulo": "Constelación del Cisne",
+		"fuente": "Alura Space",
+		"path": "/img/galeria/foto-10.png",
+		"tagId": "3"
+	}
+]
